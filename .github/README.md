@@ -28,7 +28,7 @@
 
 💛━━━━━━━💚━━━━━━━━━♥️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230000FF&multiline=true&height=150&lines=Ansi♥️+is+a+python+based+Bot+♥️;New+Features+Installed.+you+use;bot+for+manage+Group+play;song+chatbot+and+many+More+features.+Red♥️;Heart+Themed+design+based.;this+bot+Credit+Goes+to+♥️SAGAR♥️.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23233067&multiline=true&height=150&lines=Ansi♥️+is+a+python+based+Bot+♥️;New+Features+Installed.+you+use;bot+for+manage+Group+play;song+chatbot+and+many+More+features.+Red♥️;Heart+Themed+design+based.;this+bot+Credit+Goes+to+♥️SAGAR♥️.)](https://git.io/typing-svg)
 
 💛━━━━━━━💚━━━━━━━━━♥️
 
