@@ -59,6 +59,6 @@
 
 <p align="center">
 </h3>
-<a href="https://t.me/Honey_Singh_121"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-Blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Honey_Singh_121"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-darkred?style=for-the-badge&logo=Telegram"></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
