@@ -22,11 +22,11 @@
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-<a href="https://github.com/BadshahAk/AnsiRobot/stargazers"><img src="https://img.shields.io/github/stars/BadshahAk/AnsiRobot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="BadshahAk/AnsiRobot/network/members"> <img src="https://img.shields.io/github/forks/BadshahAk/AnsiRobot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/BadshahAk/AnsiRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/BadshahAk/AnsiRobot/stargazers"><img src="https://img.shields.io/github/stars/BadshahAk/AnsiRobot?color=blue&logo=github&logoColor=blue&style=for-the-badge" alt="Stars" /></a>
+<a href="BadshahAk/AnsiRobot/network/members"> <img src="https://img.shields.io/github/forks/BadshahAk/AnsiRobot?color=blue&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/BadshahAk/AnsiRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-blue?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=blue&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/BadshahAk/AnsiRobot/commits/BadshahAk"> <img src="https://img.shields.io/github/last-commit/BadshahAk/AnsiRobot?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
