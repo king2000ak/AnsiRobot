@@ -36,22 +36,22 @@ lol = "https://te.legra.ph/file/d5f6796456709ff9ec758.jpg"
 @pbot.on_message(filters.command("alive"))
 async def restart(client, m: Message):
     await m.delete()
-    accha = await m.reply("♥️")
-    await asyncio.sleep(0.5)
-    await accha.edit("💜")
-    await asyncio.sleep(0.5)
-    await accha.edit("💚")
-    await asyncio.sleep(0.5)
-    await accha.edit("💛")
-    await asyncio.sleep(0.5)
-    await accha.edit("🧡")
+    accha = await m.reply("Andy")
+    await asyncio.sleep(0.1)
+    await accha.edit("Andy x")
+    await asyncio.sleep(0.1)
+    await accha.edit("Andy x Ansi")
+    await asyncio.sleep(0.1)
+    await accha.edit("love")
+    await asyncio.sleep(0.1)
+    await accha.edit("Life")
     await accha.delete()
-    await asyncio.sleep(0.5)
+    await asyncio.sleep(0.1)
     umm = await m.reply_sticker(
         "CAACAgEAAxkBAAEIoBJkPoGRb2FOxEkHXt8xENeLHk6znAAC-gADUSkNORIJSVEUKRrhLwQ"
     )
     await umm.delete()
-    await asyncio.sleep(0.2)
+    await asyncio.sleep(0.1)
     await m.reply_photo(
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ♥️ 『[❦𝙰𝚗𝚜𝚒࿐​​​​​​​​​​ ](f"t.me/{BOT_USERNAME}")』**
