@@ -19,7 +19,7 @@ PHOTO = [
 
 Ansi = [
     [
-        InlineKeyboardButton(text="♥️𝑳𝒐𝑽𝒆♥️", url=f"https://t.me/Brahman_Anand"),
+        InlineKeyboardButton(text="♥️𝑳𝒐𝑽𝒆♥️", url=f"https://t.me/pandit_Andy"),
         InlineKeyboardButton(text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
@@ -56,7 +56,7 @@ async def restart(client, m: Message):
         lol,
         caption=f"""**ʜᴇʏ, ɪ ᴀᴍ♥️ 『[❦𝙰𝚗𝚜𝚒࿐​​​​​​​​​​ ](f"t.me/{BOT_USERNAME}")』**
    ♥️💛💚💜🧡♥️💜💛💚💛♥️💛
-  » ᴍʏ ᴏᴡɴᴇʀ : [Anand](https://t.me/Brahman_Anand)
+  » ᴍʏ ᴏᴡɴᴇʀ : [Anand](https://t.me/pandit_Andy)
   
   
   » ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : {tver}
@@ -69,7 +69,7 @@ async def restart(client, m: Message):
     )
 __mod_name__ = "♦️ ᴀʟɪᴠᴇ ♦️"
 __help__ = """
- ©️ [ᴍᴜᴋᴇsʜ] (f"tg://user?id={OWNER_ID}"))
+ ©️ [LEGEND] (f"tg://user?id={OWNER_ID}"))
 
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?"""
