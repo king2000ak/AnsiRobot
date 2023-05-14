@@ -109,7 +109,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="♥️ᥴ᥅ꫀꪖꪻꪮ᥅♥️", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="♥️𝑠𝑢𝑝𝑝𝑜𝑟𝑡♥️", url=" https://t.me/Ammu_Robot_support"),
+        InlineKeyboardButton(text="♥️𝑠𝑢𝑝𝑝𝑜𝑟𝑡♥️", url="https://t.me/Ammu_Robot_support"),
     ],
     [
         InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/AnsiRobot"),
