@@ -117,7 +117,7 @@ buttons = [
 ]
 
 HELP_STRINGS = f"""
-» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://te.legra.ph/file/8aec9c118ee0ebe2d890a.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
+» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://te.legra.ph/file/661bdc6fcc667d26a2438.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [♥️ᥴ᥅ꫀꪖꪻꪮ᥅♥️](https://te.legra.ph/file/df3219738fd7e9c45ea36.jpg)."""
