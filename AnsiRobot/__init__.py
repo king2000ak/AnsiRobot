@@ -9,6 +9,7 @@ import telegram.ext as tg
 from aiohttp import ClientSession
 from pyrogram import Client, errors
 from telethon import TelegramClient
+from AnsiRobot.quotstuff.quotapi import Quotly
 
 StartTime = time.time()
 
@@ -51,7 +52,7 @@ if ENV:
         "START_IMG", ""
     )
     STRICT_GBAN = bool(os.environ.get("STRICT_GBAN", True))
-    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "worldwide_friend_zone")
+    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "TG_FRIENDSS")
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
     TOKEN = os.environ.get("TOKEN", None)
     TIME_API_KEY = os.environ.get("TIME_API_KEY", None)
@@ -145,12 +146,11 @@ else:
 
 DRAGONS.add(OWNER_ID)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(5617001475)
-
+DEV_USERS.add(5463205082)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
-telethn = TelegramClient("Ansi", API_ID, API_HASH)
+telethn = TelegramClient("star", API_ID, API_HASH)
 
 pbot = Client("AnsiRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
@@ -178,3 +178,9 @@ from AnsiRobot.modules.helper_funcs.handlers import (
 tg.RegexHandler = CustomRegexHandler
 tg.CommandHandler = CustomCommandHandler
 tg.MessageHandler = CustomMessageHandler
+
+#-------Quote-------
+
+quotly = Quotly()
+
+#-------------------
