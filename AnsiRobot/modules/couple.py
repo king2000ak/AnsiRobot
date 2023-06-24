@@ -48,8 +48,8 @@ async def couple(_, message):
                     list_of_users.append(i.user.id)
             if len(list_of_users) < 2:
                 return await message.reply_text("Not enough users")
-            c1_id = random.choice(list_of_users)
-            c2_id = random.choice(list_of_users)
+            c1_name = (await pbot.get_users(c1_id)).mention
+            c2_name = (await pbot.get_users(c2_id)).mention
             while c1_id == c2_id:
                 c1_id = random.choice(list_of_users)
             c1_mention = (await pbot.get_users(c1_id)).mention
