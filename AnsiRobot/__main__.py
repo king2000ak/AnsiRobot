@@ -400,7 +400,7 @@ def Ansi_about_callback(update: Update, context: CallbackContext):
                             text="Ｏｗｎｅｒ", url=f"https://t.me/pandit_Andy"
                         ),
                         InlineKeyboardButton(
-                         text="Ｃｏ-Ｏｗｎｅｒ", url=f"https://t.me/Its_Andy_ki_jaan"   
+                         text="Ｃｏ-Ｏｗｎｅｒ", url=f"tg://user?id=5287077710"   
                         ),
                     ],
                    [
