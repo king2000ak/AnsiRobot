@@ -71,7 +71,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 PM_START_TEX = """
-♥️𝐖𝐞𝐥𝐜𝐨𝐦𝐞 `{}`, ♥️ 
+💙𝐖𝐞𝐥𝐜𝐨𝐦𝐞 `{}`, 💙 
 """
 
 
@@ -89,7 +89,7 @@ PM_START_TEXT = """
 💙💙💙💙⇣❥chatbot added🔸
 💜💜💜⇣❥deploy on VPS🔸
 💛💛⇣❥Colourful themed🔸
-💚⇣❥Manage by [Andy](https://t.me/its_SharmaJiii)
+💚⇣❥Manage by [Anand](https://t.me/its_SharmaJiii)
 ༺🖤༻༺🧡༻༺💛༻༺💜༻
 """
 
@@ -114,7 +114,7 @@ buttons = [
 ]
 
 HELP_STRINGS = f"""
-» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://telegra.ph/file/a05055216b36bb8e4d956.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
+» {BOT_NAME}  😵‍💫¢ℓι¢к😵‍💫 [.](https://telegra.ph/file/a05055216b36bb8e4d956.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [♥️ᥴ᥅ꫀꪖꪻꪮ᥅♥️](https://te.legra.ph/file/df3219738fd7e9c45ea36.jpg)."""
@@ -418,10 +418,7 @@ def Ansi_about_callback(update: Update, context: CallbackContext):
                     [
                         InlineKeyboardButton(
                             text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"tg://user?id={OWNER_ID}"
-                        ),
-                        InlineKeyboardButton(
-                            text="✨ɢɪᴛʜᴜʙ✨", url="https://github.com/noob-Ansi"
-                        ),
+                        ),                        
                     ],
                     [
                         InlineKeyboardButton(text="♥️", callback_data="Ansi_"),
