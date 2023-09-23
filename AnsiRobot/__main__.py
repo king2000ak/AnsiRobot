@@ -76,21 +76,21 @@ PM_START_TEX = """
 
 
 PM_START_TEXT = """ 
-*ʜᴇʏ* {} , [.](https://telegra.ph/file/4742ca55ef584863b6cb2.jpg)
-╔ ❰★𝓘 𝓛𝓸𝓿𝓮 𝓨𝓸𝓾💗★❱
-║
-┣⪼ {} 
-║
-╚ ❰★𝓘 𝓛𝓸𝓿𝓮 𝓨𝓸𝓾💗★❱
-➻ ƒυℓℓу ♦️ ѕмσσтн 🧶 αη∂ ¢υтє🧸 мαмαgємєηт💖 вσт🔰 ƒσя ¢αηтяσℓ♥️ єνєяутнιηg.
+*ʜᴇʏ* {} , [.](https://telegra.ph/file/a7039daef1cd9c14cdc3d.jpg)
+╭══════════💚═╮
+ ༺༺༺ {} ༻༻༻
+╰═💜══════════╯
+╔━━❖❖💠❖❖━━╗ 
+༺༺✮ [Dil♥️](https://t.me/Crazy_frndz) ✮༻༻
+╚━━❖❖💠❖❖━━╝
 тнιѕ вσт σηℓу ƒσя мαηαgємєηт😊
-╔═════❤️❤️❤️۩۞۩❤️❤️❤️════╗
-      
-♥️═══[♥️ι ℓσνє уσυ ♥️](https://t.me/LegendBoy_Andy)═══♥
-
-╚═════❤️❤️❤️۩۞۩❤️❤️❤️════╝
-
-☆..♥️......♥️......❦𝙰𝚗𝚜𝚒࿐☆​​​​​​​​​​......♥️......♥️..☆
+🖤🖤🖤🖤🖤🖤⇣❥ Super smooth🔸
+♥️♥️♥️♥️♥️⇣❥ super advance🔸
+💙💙💙💙⇣❥chatbot added🔸
+💜💜💜⇣❥deploy on VPS🔸
+💛💛⇣❥Colourful themed🔸
+💚⇣❥Manage by [Andy](https://t.me/its_SharmaJiii)
+༺🖤༻༺🧡༻༺💛༻༺💜༻
 """
 
 buttons = [
@@ -101,23 +101,20 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="♥️ѕυρєя ¢σммαη∂ѕ♥️", callback_data="help_back"),
+        InlineKeyboardButton(text="💚ѕυρєя ¢σммαη∂ѕ💚", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="♥️ 𝙻𝚘𝚟𝚎 ♥️", callback_data="Ansi_"),
-        InlineKeyboardButton(text="♥️¢нαттιηg♥️", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="💛 𝙻𝚘𝚟𝚎 💛", callback_data="Ansi_"),
+        InlineKeyboardButton(text="🧡¢нαттιηg🧡", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
-        InlineKeyboardButton(text="♥️ᥴ᥅ꫀꪖꪻꪮ᥅♥️", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="♥️Positive Vibes♥️", url="https://t.me/PW_PRAYASIANS"),
-    ],
-    [
-        InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", url="https://github.com/BadshahAk/AnsiRobot"),
+        InlineKeyboardButton(text="💜ᥴ᥅ꫀꪖꪻꪮ᥅💜", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="💙Positive Vibes💙", url="https://t.me/PW_PRAYASIANS"),
     ],
 ]
 
 HELP_STRINGS = f"""
-» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://te.legra.ph/file/661bdc6fcc667d26a2438.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
+» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://telegra.ph/file/a05055216b36bb8e4d956.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
 DONATE_STRING = """ʜᴇʏ ʙᴀʙʏ,
   ʜᴀᴩᴩʏ ᴛᴏ ʜᴇᴀʀ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴɴᴀ ᴅᴏɴᴀᴛᴇ.
 ʏᴏᴜ ᴄᴀɴ ᴅɪʀᴇᴄᴛʟʏ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [♥️ᥴ᥅ꫀꪖꪻꪮ᥅♥️](https://te.legra.ph/file/df3219738fd7e9c45ea36.jpg)."""
@@ -378,26 +375,21 @@ def Ansi_about_callback(update: Update, context: CallbackContext):
         uptime = get_readable_time((time.time() - StartTime))
         query.message.edit_text(
              text=f"*ʜᴇʏ,*🥀\n  *ᴛʜɪs ɪs {dispatcher.bot.first_name}*"
-            "\n*ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ➕ ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.*"
+            "\n\n*ᴀ ᴘᴏᴡᴇʀꜰᴜʟ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ & ᴍᴜsɪᴄ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴜɪʟᴛ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴇᴀꜱɪʟʏ ᴀɴᴅ ᴛᴏ ᴘʀᴏᴛᴇᴄᴛ ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜰʀᴏᴍ ꜱᴄᴀᴍᴍᴇʀꜱ ᴀɴᴅ ꜱᴘᴀᴍᴍᴇʀꜱ.*"
             "\n*ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏᴅʙ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.*"
-            "\n\n────────────────────"
-            f"\n*➻ ᴜᴩᴛɪᴍᴇ »* {uptime}"
-            f"\n*➻ ᴜsᴇʀs »* {sql.num_users()}"
-            f"\n*➻ ᴄʜᴀᴛs »* {sql.num_chats()}"
-            "\n────────────────────"
-            "\n\n➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
+            "\n➲  ɪ ᴄᴀɴ ʀᴇꜱᴛʀɪᴄᴛ ᴜꜱᴇʀꜱ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴛɪ-ꜰʟᴏᴏᴅ ꜱʏꜱᴛᴇᴍ."
             "\n➲  ɪ ᴄᴀɴ ɢʀᴇᴇᴛ ᴜꜱᴇʀꜱ ᴡɪᴛʜ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇꜱꜱᴀɢᴇꜱ ᴀɴᴅ ᴇᴠᴇɴ ꜱᴇᴛ ᴀ ɢʀᴏᴜᴘ'ꜱ ʀᴜʟᴇꜱ."
             "\n➲  ɪ ᴄᴀɴ ᴡᴀʀɴ ᴜꜱᴇʀꜱ ᴜɴᴛɪʟ ᴛʜᴇʏ ʀᴇᴀᴄʜ ᴍᴀx ᴡᴀʀɴꜱ, ᴡɪᴛʜ ᴇᴀᴄʜ ᴘʀᴇᴅᴇꜰɪɴᴇᴅ ᴀᴄᴛɪᴏɴꜱ ꜱᴜᴄʜ ᴀꜱ ʙᴀɴ, ᴍᴜᴛᴇ, ᴋɪᴄᴋ, ᴇᴛᴄ."
             "\n➲  ɪ ʜᴀᴠᴇ ᴀ ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ, ʙʟᴀᴄᴋʟɪꜱᴛꜱ, ᴀɴᴅ ᴇᴠᴇɴ ᴘʀᴇᴅᴇᴛᴇʀᴍɪɴᴇᴅ ʀᴇᴘʟɪᴇꜱ ᴏɴ ᴄᴇʀᴛᴀɪɴ ᴋᴇʏᴡᴏʀᴅꜱ."
-            f"\n\n➻ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ ғᴏʀ ɢᴇᴛᴛɪɴɢ ʙᴀsɪᴄ ʜᴇʟᴩ ᴀɴᴅ ɪɴғᴏ ᴀʙᴏᴜᴛ {dispatcher.bot.first_name}.",
+            "\n\n ☆............𝙱𝚈 » Legend............☆",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="Ｏｗｎｅｒ", url=f"https://t.me/pandit_Andy"
+                            text="Ｏｗｎｅｒ", url=f"https://t.me/its_SharmaJiii"
                         ),
                         InlineKeyboardButton(
                          text="Ｃｏ-Ｏｗｎｅｒ", url=f"tg://user?id=5287077710"   
