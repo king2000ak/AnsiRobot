@@ -81,7 +81,7 @@ PM_START_TEXT = """
  ༺༺༺ {} ༻༻༻
 ╰═💜══════════╯
 ╔━━❖❖💠❖❖━━╗ 
-༺༺✮ [Dil♥️](https://t.me/Crazy_frndz) ✮༻༻
+༺༺✮ [Dil♥️](https://t.me/Anand_heart) ✮༻༻
 ╚━━❖❖💠❖❖━━╝
 тнιѕ вσт σηℓу ƒσя мαηαgємєηт😊
 🖤🖤🖤🖤🖤🖤⇣❥ Super smooth🔸
@@ -89,7 +89,7 @@ PM_START_TEXT = """
 💙💙💙💙⇣❥chatbot added🔸
 💜💜💜⇣❥deploy on VPS🔸
 💛💛⇣❥Colourful themed🔸
-💚⇣❥Manage by [Anand](https://t.me/its_SharmaJiii)
+💚⇣❥Manage by [Anand](https://t.me/LegendGod_andy)
 ༺🖤༻༺🧡༻༺💛༻༺💜༻
 """
 
@@ -109,7 +109,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="💜ᥴ᥅ꫀꪖꪻꪮ᥅💜", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="💙Positive Vibes💙", url="https://t.me/PW_PRAYASIANS"),
+        InlineKeyboardButton(text="💙Positive Vibes💙", url="https://t.me/PW_KE_PRAYASIANS"),
     ],
 ]
 
@@ -392,7 +392,7 @@ def Ansi_about_callback(update: Update, context: CallbackContext):
                             text="Ｏｗｎｅｒ", url=f"https://t.me/its_SharmaJiii"
                         ),
                         InlineKeyboardButton(
-                         text="Ｃｏ-Ｏｗｎｅｒ", url=f"tg://user?id=5287077710"   
+                         text="Ｃｏ-Ｏｗｎｅｒ", url=f"https://t.me/LegendGod_andy"   
                         ),
                     ],
                    [
@@ -1119,10 +1119,10 @@ def main():
                 caption=f"""
 ㅤ{dispatcher.bot.first_name} 
 
-╔═════ஜ۩۞۩ஜ═════╗
-  ♥️𝗠𝗔𝗗𝗘 𝗕𝗬 [LEGEND](https://t.me/pandit_Andy)♥️
-  
-╚═════ஜ۩۞۩ஜ═════╝
+💚💙❤️💙💚ஜ۩۞۩ஜ💚💙❤️💙💚 
+   💜𝗠𝗔𝗗𝗘 𝗕𝗬 [LEGEND](https://t.me/LegendGod_andy)💜 
+    
+ 💚💙❤️💙💚ஜ۩۞۩ஜ💚💙❤️💙💚
 """,
                 parse_mode=ParseMode.MARKDOWN,
             )
