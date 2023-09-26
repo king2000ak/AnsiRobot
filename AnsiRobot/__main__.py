@@ -81,16 +81,16 @@ PM_START_TEXT = """
  ༺༺༺ {} ༻༻༻
 ╰═💜══════════╯
 ╔━━❖❖💠❖❖━━╗ 
-༺༺✮ [Dil♥️](https://t.me/Anand_heart) ✮༻༻
+༺༺✮ [Bᴀʙʏ♥︎シ︎](https://t.me/Anand_heart) ✮༻༻
 ╚━━❖❖💠❖❖━━╝
 тнιѕ вσт σηℓу ƒσя мαηαgємєηт😊
-🖤🖤🖤🖤🖤🖤⇣❥ Super smooth🔸
+🤎🤎🤎🤎🤎🤎⇣❥ Super smooth🔸
 ♥️♥️♥️♥️♥️⇣❥ super advance🔸
 💙💙💙💙⇣❥chatbot added🔸
 💜💜💜⇣❥deploy on VPS🔸
 💛💛⇣❥Colourful themed🔸
 💚⇣❥Manage by [Anand](https://t.me/LegendGod_andy)
-༺🖤༻༺🧡༻༺💛༻༺💜༻
+༺🤎༻༺🧡༻༺💛༻༺💜༻
 """
 
 buttons = [
@@ -104,13 +104,19 @@ buttons = [
         InlineKeyboardButton(text="💚ѕυρєя ¢σммαη∂ѕ💚", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💛 𝙻𝚘𝚟𝚎 💛", callback_data="Ansi_"),
-        InlineKeyboardButton(text="🧡¢нαттιηg🧡", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="💛 𝙻𝚘𝚟𝚎  💛", callback_data="Ansi_"),
+        InlineKeyboardButton(text="🧡ꜱᴜᴘᴘᴏʀᴛ🧡", callback_data="Ansi_support"),
     ],
     [
-        InlineKeyboardButton(text="💜ᥴ᥅ꫀꪖꪻꪮ᥅💜", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="💜ᴄʜᴀᴛᴛɪɴɢ💜", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(text="💙Positive Vibes💙", url="https://t.me/PW_KE_PRAYASIANS"),
     ],
+        [ 
+         InlineKeyboardButton(text="°•𝙰𝚗𝚊𝚗𝚍'𝚜 𝙷𝚎𝚊𝚛𝚝❤️ •°", url=f"https://t.me/Anand_Heart"), 
+     ],
+        [ 
+         InlineKeyboardButton(text="💞ᥴ᥅ꫀꪖꪻꪮ᥅💞", url=f"tg://user?id={OWNER_ID}"), 
+     ],
 ]
 
 HELP_STRINGS = f"""
