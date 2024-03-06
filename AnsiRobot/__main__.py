@@ -70,26 +70,24 @@ def get_readable_time(seconds: int) -> str:
     ping_time += ":".join(time_list)
 
     return ping_time
-PM_START_TEX = """
-💙𝐖𝐞𝐥𝐜𝐨𝐦𝐞 `{}`, 💙 
-"""
+PM_START_TEX = """ 
+*ʜᴇʏ* {} , [.](https://telegra.ph/file/4385b1294ec349b048a0c.png)
+╔ ❰★@Shreyastyle★❱
+║
+┣⪼ {} 
+║
+╚ ❰★@Shreyastyle★❱
 
-
-PM_START_TEXT = """ 
-*ʜᴇʏ* {} , [.](https://telegra.ph/file/a7039daef1cd9c14cdc3d.jpg)
-╭══════════💚═╮
- ༺༺༺ {} ༻༻༻
-╰═💜══════════╯
 ╔━━❖❖💠❖❖━━╗ 
-༺༺✮ [Bᴀʙʏ♥︎シ︎](https://t.me/Anand_heart) ✮༻༻
+༺༺✮ [𝐀𝐧𝐧𝐢𝐢✿༻︎](https://t.me/Shreyastyle) ✮༻༻
 ╚━━❖❖💠❖❖━━╝
+➻ ƒυℓℓу ♦️ ѕмσσтн 🧶 αη∂ ¢υтє🧸 мαмαgємєηт💖 вσт🔰 ƒσя ¢αηтяσℓ♥️ єνєяутнιηg.
 тнιѕ вσт σηℓу ƒσя мαηαgємєηт😊
-🤎🤎🤎🤎🤎🤎⇣❥ Super smooth🔸
-♥️♥️♥️♥️♥️⇣❥ super advance🔸
-💙💙💙💙⇣❥chatbot added🔸
-💜💜💜⇣❥deploy on VPS🔸
-💛💛⇣❥Colourful themed🔸
-💚⇣❥Manage by [Anand](https://t.me/LegendGod_andy)
+°•.•╔✿════════๏⊙๏════════✿╗•.•°
+      
+  ♥️═══[♥️ι ℓσνє уσυ ♥️](https://youtube.com/@Shreya_style)═══♥
+
+.•°•╚✿═══════๏⊙๏═══════✿╝•°•.
 ༺🤎༻༺🧡༻༺💛༻༺💜༻
 """
 
@@ -104,19 +102,13 @@ buttons = [
         InlineKeyboardButton(text="💚ѕυρєя ¢σммαη∂ѕ💚", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="💛 𝙻𝚘𝚟𝚎  💛", callback_data="Ansi_"),
-        InlineKeyboardButton(text="🧡ꜱᴜᴘᴘᴏʀᴛ🧡", callback_data="Ansi_support"),
+        InlineKeyboardButton(text="💛 𝙻𝚘𝚟𝚎  💛", callback_data="Music_"),
+        InlineKeyboardButton(text="🧡ꜱᴜᴘᴘᴏʀᴛ🧡", callback_data="Anniii_support"),
     ],
     [
-        InlineKeyboardButton(text="💜ᴄʜᴀᴛᴛɪɴɢ💜", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="💙Positive Vibes💙", url="https://t.me/PW_KE_PRAYASIANS"),
+        InlineKeyboardButton(text="💜ᴄʜᴀᴛᴛɪɴɢ💜", url=f"https://t.me/official_unique_society"),
+        
     ],
-        [ 
-         InlineKeyboardButton(text="°•𝙰𝚗𝚊𝚗𝚍'𝚜 𝙷𝚎𝚊𝚛𝚝❤️ •°", url=f"https://t.me/Anand_Heart"), 
-     ],
-        [ 
-         InlineKeyboardButton(text="💞ᥴ᥅ꫀꪖꪻꪮ᥅💞", url=f"tg://user?id={OWNER_ID}"), 
-     ],
 ]
 
 HELP_STRINGS = f"""
